@@ -1,6 +1,6 @@
 {
   "name": "sendbeacon-polyfill",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Polyfill for navigator.sendBeacon()",
   "main": "dist/sendbeacon-polyfill.cjs.js",
   "module": "dist/sendbeacon-polyfill.es.js",
