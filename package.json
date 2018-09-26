@@ -1,11 +1,11 @@
 {
-  "name": "navigator.sendbeacon",
+  "name": "sendbeacon-polyfill",
   "version": "0.0.9",
   "description": "Polyfill for navigator.sendBeacon()",
-  "main": "dist/navigator.sendbeacon.cjs.js",
-  "module": "dist/navigator.sendbeacon.es.js",
-  "unpkg": "dist/navigator.sendbeacon.min.js",
-  "jsdelivr": "dist/navigator.sendbeacon.min.js",
+  "main": "dist/sendbeacon-polyfill.cjs.js",
+  "module": "dist/sendbeacon-polyfill.es.js",
+  "unpkg": "dist/sendbeacon-polyfill.min.js",
+  "jsdelivr": "dist/sendbeacon-polyfill.min.js",
   "files": [
     "sendbeacon.js",
     "dist"
@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelmota/Navigator.sendBeacon"
+    "url": "https://github.com/kronicker/sendbeacon-polyfill"
   },
   "keywords": [
     "navigator",
     "beacon",
     "polyfill"
   ],
-  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "author": "Toma Zelic <zelic.toma@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miguelmota/Navigator.sendBeacon/issues"
+    "url": "https://github.com/kronicker/sendbeacon-polyfill/issues"
   },
-  "homepage": "https://github.com/miguelmota/Navigator.sendBeacon",
+  "homepage": "https://github.com/kronicker/sendbeacon-polyfill",
   "devDependencies": {
     "bili": "^3.1.2",
     "np": "^3.0.4",

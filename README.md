@@ -1,23 +1,23 @@
-# Navigator.sendBeacon polyfill
+# sendbeacon-polyfill
 
 Polyfill for [Navigator.sendBeacon()](http://www.w3.org/TR/beacon/#sec-sendBeacon-method)
 
-[![NPM](https://nodei.co/npm/navigator.sendbeacon.png)](https://nodei.co/npm/navigator.sendbeacon)
+[![NPM](https://nodei.co/npm/sendbeacon-polyfill.png)](https://nodei.co/npm/sendbeacon-polyfill)
 
 # Install
 
 Using NPM:
 
 ```bash
-npm install navigator.sendbeacon
+npm install sendbeacon-polyfill
 ```
 
 Using JavaScript source:
 
 ```html
-<script src="https://unpkg.com/navigator.sendbeacon"></script>
+<script src="https://unpkg.com/sendbeacon-polyfill"></script>
 <!-- OR -->
-<script src="https://cdn.jsdelivr.net/npm/navigator.sendbeacon"></script>
+<script src="https://cdn.jsdelivr.net/npm/sendbeacon-polyfill"></script>
 ```
 
 # Usage
